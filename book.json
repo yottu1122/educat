@@ -1,0 +1,4 @@
+{
+    "language": "ja",
+    "plugins": ["navigator", "hints", "intopic-toc"]
+}
